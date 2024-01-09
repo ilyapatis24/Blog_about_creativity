@@ -1,13 +1,13 @@
 @font-face {
     font-family: "Open Sans";
-    src: url("https://netology-code.github.io/html-2-diploma/sources/fonts/OpenSans-Regular.woff") format("woff");
+    src: url("fonts/OpenSans-Regular.woff") format("woff");
     font-weight: 400;
     font-style: normal;
 }
 
 @font-face {
     font-family: "Open Sans";
-    src: url("https://netology-code.github.io/html-2-diploma/sources/fonts/OpenSans-Bold.woff") format("woff");
+    src: url("fonts/OpenSans-Bold.woff") format("woff");
     font-weight: 700;
     font-style: normal;
 }
@@ -41,7 +41,7 @@ article {
     padding-top: 25px;
     padding-bottom: 140px;
 
-    background-image: url(https://netology-code.github.io/html-2-diploma/sources/images/banner-bg.jpg);
+    background-image: url(images/banner-bg.jpg);
     background-repeat: no-repeat;
     background-position: center top;
     background-size: cover;
@@ -343,7 +343,7 @@ article {
     height: 48px;
 
     background: #b59f5b;
-    background-image: url("https://netology-code.github.io/html-2-diploma/sources/images/search.svg");
+    background-image: url("images/search.svg");
     background-repeat: no-repeat;
     background-size: 20px 18px;
     background-position: center center;
@@ -353,7 +353,7 @@ article {
 
 .search-button:hover {
     background: #323232;
-    background-image: url("https://netology-code.github.io/html-2-diploma/sources/images/search.svg");
+    background-image: url("images/search.svg");
     background-repeat: no-repeat;
     background-size: 20px 18px;
     background-position: center center;
@@ -518,15 +518,15 @@ article {
 }
 
 .socials-link-dribbble {
-    background-image: url("https://netology-code.github.io/html-2-diploma/sources/images/social/001-dribbble.svg");
+    background-image: url("svg/001-dribbble.svg");
 }
 
 .socials-link-pinterest {
-    background-image: url("https://netology-code.github.io/html-2-diploma/sources/images/social/001-pinterest.svg");
+    background-image: url("svg/001-pinterest.svg");
 }
 
 .socials-link-tumblr {
-    background-image: url("https://netology-code.github.io/html-2-diploma/sources/images/social/003-tumblr.svg");
+    background-image: url("svg/003-tumblr.svg");
 }
 
 .socials-link-text {

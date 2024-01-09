@@ -1,28 +1,28 @@
 # Необходимые исходные файлы
 
 - [Макет в формате .PSD](NOEMI_Modern_ru.psd)
-- [Шрифты](https://netology-code.github.io/html-2-diploma/sources/fonts/OpenSans.zip)
+- [Шрифты](fonts/OpenSans.zip)
 
 ## Используйте следующие ссылки на шрифт для подключения к проекту в Codepen 
-- [https://netology-code.github.io/html-2-diploma/sources/fonts/OpenSans-Regular.woff](https://netology-code.github.io/html-2-diploma/sources/fonts/OpenSans-Regular.woff)
-- [https://netology-code.github.io/html-2-diploma/sources/fonts/OpenSans-Bold.woff](https://netology-code.github.io/html-2-diploma/sources/fonts/OpenSans-Bold.woff)
+- [fonts/OpenSans-Regular.woff](fonts/OpenSans-Regular.woff)
+- [fonts/OpenSans-Bold.woff](fonts/OpenSans-Bold.woff)
 
 ## В верстке на Codepen используйте следующие ссылки на иконки и лого:
     
 ### Логотип:
-[https://netology-code.github.io/html-2-diploma/sources/images/noemi-logo.svg](https://netology-code.github.io/html-2-diploma/sources/images/noemi-logo.svg)
+[svg/noemi-logo.svg](svg/noemi-logo.svg)
 
 ### Баннер:
 
-- [https://netology-code.github.io/html-2-diploma/sources/images/banner-bg.jpg](https://netology-code.github.io/html-2-diploma/sources/images/banner-bg.jpg)
+- [images/banner-bg.jpg](images/banner-bg.jpg)
 
 ### Новости:
 
-- [https://netology-code.github.io/html-2-diploma/sources/images/last-post1.jpg](https://netology-code.github.io/html-2-diploma/sources/images/last-post1.jpg)
-- [https://netology-code.github.io/html-2-diploma/sources/images/last-post2.jpg](https://netology-code.github.io/html-2-diploma/sources/images/last-post2.jpg)
-- [https://netology-code.github.io/html-2-diploma/sources/images/last-post3.jpg](https://netology-code.github.io/html-2-diploma/sources/images/last-post3.jpg)
-- [https://netology-code.github.io/html-2-diploma/sources/images/last-post4.jpg](https://netology-code.github.io/html-2-diploma/sources/images/last-post4.jpg)
-- [https://netology-code.github.io/html-2-diploma/sources/images/last-post5.jpg](https://netology-code.github.io/html-2-diploma/sources/images/last-post5.jpg)
+- [images/last-post1.jpg](images/last-post1.jpg)
+- [images/last-post2.jpg](images/last-post2.jpg)
+- [images/last-post3.jpg](images/last-post3.jpg)
+- [images/last-post4.jpg](images/last-post4.jpg)
+- [images/last-post5.jpg](images/last-post5.jpg)
 - [https://netology-code.github.io/html-2-diploma/sources/images/last-post6.jpg](https://netology-code.github.io/html-2-diploma/sources/images/last-post6.jpg)
     
 ### Новости в боковой панели:
