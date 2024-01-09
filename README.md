@@ -279,5 +279,6 @@
 
 Дипломный проект должен быть реализован на сайте CodePen. Вам не нужно создавать основной каркас страницы. Во вкладке HTML создайте сразу разметку страницы без элемента `body`. Для подключения декоративных элементов, изображений и шрифтов проекта используйте ссылки из файла [«Ресурсы проекта»](sources/README.md).
 
-[Ссылка на мой проект в CodePen](https://codepen.io/ilyapatis24/pen/ZEVVpzR?editors=1100)
-[На GitHub Pages](https://ilyapatis24.github.io/Blog_about_creativity/)
+### Мой проект вы можете посмотреть:
+1. [В CodePen](https://codepen.io/ilyapatis24/pen/ZEVVpzR?editors=1100)
+2. [На GitHub Pages](https://ilyapatis24.github.io/Blog_about_creativity/)
