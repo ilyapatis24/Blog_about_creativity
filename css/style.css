@@ -41,7 +41,7 @@ article {
     padding-top: 25px;
     padding-bottom: 140px;
 
-    background-image: url(images/banner-bg.jpg);
+    background-image: url(Blog_about_creativity/images/banner-bg.jpg);
     background-repeat: no-repeat;
     background-position: center top;
     background-size: cover;
@@ -343,7 +343,7 @@ article {
     height: 48px;
 
     background: #b59f5b;
-    background-image: url("images/search.svg");
+    background-image: url("Blog_about_creativity/images/search.svg");
     background-repeat: no-repeat;
     background-size: 20px 18px;
     background-position: center center;
@@ -353,7 +353,7 @@ article {
 
 .search-button:hover {
     background: #323232;
-    background-image: url("images/search.svg");
+    background-image: url("Blog_about_creativity/images/search.svg");
     background-repeat: no-repeat;
     background-size: 20px 18px;
     background-position: center center;
@@ -518,15 +518,15 @@ article {
 }
 
 .socials-link-dribbble {
-    background-image: url("svg/001-dribbble.svg");
+    background-image: url("Blog_about_creativity/svg/001-dribbble.svg");
 }
 
 .socials-link-pinterest {
-    background-image: url("svg/001-pinterest.svg");
+    background-image: url("Blog_about_creativity/svg/001-pinterest.svg");
 }
 
 .socials-link-tumblr {
-    background-image: url("svg/003-tumblr.svg");
+    background-image: url("Blog_about_creativity/svg/003-tumblr.svg");
 }
 
 .socials-link-text {
